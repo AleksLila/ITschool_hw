@@ -16,6 +16,7 @@ public class Solution {
 
         //напишіть тут ваш код
         System.out.println(toothCounter);
+        System.out.println("Add hw_lesson21");
     }
 
 }
