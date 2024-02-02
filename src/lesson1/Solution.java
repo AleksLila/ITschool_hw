@@ -15,7 +15,7 @@ public class Solution {
         toothCounter--;
 
         //напишіть тут ваш код
-        System.out.println(toothCounter);
+        System.out.println(toothCounter+" "+toothCounter);
     }
 
 }
